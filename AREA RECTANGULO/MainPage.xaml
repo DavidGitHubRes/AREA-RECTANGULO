@@ -2,6 +2,17 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="AREA_RECTANGULO.MainPage">
+   <!--
+        EJERCISIO RECTANGULO
+
+        Fecha de creación: [29/06/2023]
+        Empresa: [DAVID]
+
+        Última modificación:
+        - Fecha: [29/06/2023]
+        - Descripción: [NO HAY MODIFICACIONES]
+        - Autor: [DAVID]
+    -->
 
     <StackLayout>
         <Image Margin="0,40,0,0"
